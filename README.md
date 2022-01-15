@@ -3,7 +3,7 @@
 ![Project Image](https://i.imgur.com/D0IeDwE.png)
 
 ## Live Site Link
-[![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)]()
+[![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://influencer-gear.vercel.app/)
 
 ---
 

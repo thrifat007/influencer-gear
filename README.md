@@ -18,7 +18,7 @@
 
 ## Description
 
-Mission 2022 is a Landing Page made with HTML & CSS. Perfect to promote your work, your business or yourself.
+Influencer Gear is an E-commerce Landing Page made with HTML & CSS. Perfect to promote your work, your business or yourself.
 
 ### Technologies
 

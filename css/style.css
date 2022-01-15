@@ -338,4 +338,51 @@ footer ul li a{
     background: rgba(255, 255, 255, 0.281);
 }
 
+/* ---------------------------
+-----------MEDIA QUERIES-------
+------------------------------ */
 
+/* Media Query for Mobile Devices */
+@media (max-width: 480px) {
+    /* common */
+    .container {
+        max-width: 100vw;
+    }
+
+    /* header */
+    header .container{
+        grid-template-columns: repeat(3, 1fr);
+        justify-content: center;
+    }
+
+    header .container .mobile-nav{
+        display: block;
+    }
+
+    header .nav{
+        display: none;
+    }
+
+    /* hero */
+    .hero .container{
+        grid-template-columns: 1fr;
+        /* grid-auto-flow: dense; */
+    }
+
+    .hero .hero-left{
+        order: 2;
+    }
+    .hero-right{
+        order:1;
+    }
+
+    
+}
+
+
+/* Media Query for Tablets Ipads portrait mode */
+@media (min-width: 768px) and (max-width: 1024px){
+    body {
+        background-color: blue;
+    }
+}
